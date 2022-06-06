@@ -1,7 +1,7 @@
-<h1>Labyrinthia by Jonathan Carlson (C) 06/29/2019</h1>
+<h1>Labyrinthia</h1>
 <h3>Dependencies</h3>
-<ul><li>Python 2.7 (Old version)</li>
-  <li>PyGame (No longer supports Python 2</li></ul>
+<ul><li>Python</li>
+  <li>PyGame</li></ul>
 <h3>Description</h3>
 <p>
 This is one of my first big programing projects from when I started learning to code in Python.
@@ -20,4 +20,6 @@ great help with this project.
 
 Note: This entire project was created stricty for academic purposes and should not be 
 used for any sort of financial gain (not that anyone could possibly make a buck off of 
-it anyway). I never made a distributable version of this anyway, so good luck getting it to work.</p>
+it anyway).</p>
+<h3>Screen Shots</h3>
+![](Pictures/screenshot1)
