@@ -22,4 +22,5 @@ Note: This entire project was created stricty for academic purposes and should n
 used for any sort of financial gain (not that anyone could possibly make a buck off of 
 it anyway).</p>
 <h3>Screen Shots</h3>
-![](Pictures/screenshot1)
+<img src="pictures/screenshot1.png">
+<img src="pictures/screenshot2.png">
