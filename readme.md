@@ -5,12 +5,10 @@
 <h3>Description</h3>
 <p>
 This is one of my first big programing projects from when I started learning to code in Python.
-I created this game before I started my software engineering degree, so naturally I 
-had no familiarity with common programming concepts like object orientation, good 
-documentation, code reuse, and other good practices. Frankly this entire code is a 
-tangled up mess, but the game sorta works. Overall, I spent probably 6-9 months working 
-on it for several hours per day. I probably spent even more time editing pictures and 
-sound files than actually coding.
+I created this game before I started my software engineering degree, so I am not going to claim
+best coding practices were used (good documentation, code reuse, etc.) Overall, I spent probably 
+6-9 months working on it for several hours per day. I probably spent just as much time editing 
+pictures and sound files as coding.
 
 DISCLAIMER: Almost all of the audio and visual content is completely ripped off. I mostly 
 searched google for the content but you may recognize the music and sound effects from 
@@ -19,8 +17,7 @@ picture files were downloaded from Google and modified by myself and my wife, wh
 great help with this project.
 
 Note: This entire project was created stricty for academic purposes and should not be 
-used for any sort of financial gain (not that anyone could possibly make a buck off of 
-it anyway).</p>
+used for any sort of financial gain.</p>
 <h3>Screen Shots</h3>
 <img src="pictures/screenshot1.png">
 <img src="pictures/screenshot2.png">
